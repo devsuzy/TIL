@@ -2,6 +2,9 @@
 
 > 매일메일 FE 2025년 1월 1주차 화요일 질문
 
+![browserRending](https://github.com/user-attachments/assets/0f0a6f7a-ee0b-4943-aa23-da8db843634c)
+
+
 ## Reflow
 
 - 브라우저가 페이지의 레이아웃을 다시 계산하는 과정
