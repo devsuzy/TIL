@@ -39,6 +39,8 @@ const ChildComponent = (props) => {
 - 상위 부모 컴포넌트에서 props를 변경하거나 state로 데이터를 관리한다.
 - 상태 끌어 올리기
 
+---
+
 ### state
 
 - 컴포넌트 내부에서 관리되는 데이터
