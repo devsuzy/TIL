@@ -5,7 +5,7 @@
 - 2025년 신년 계획 중 하나.
 - 2025.01.06 ~ ing
 
-# 분류
+# 📌 분류
 
 ### JavaScript
 
@@ -25,4 +25,4 @@
 - [제어 컴포넌트와 비제어 컴포넌트](https://github.com/devsuzy/TIL/blob/main/React/%EC%A0%9C%EC%96%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80%20%EB%B9%84%EC%A0%9C%EC%96%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 - [리액트 성능 최적화](https://github.com/devsuzy/TIL/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
 - [Strict Mode](https://github.com/devsuzy/TIL/blob/main/React/Strict%20Mode.md)
-- [render phase와 commit phase]()
+- [render phase와 commit phase](https://github.com/devsuzy/TIL/blob/main/React/render%20phase%EC%99%80%20commit%20phase.md)
