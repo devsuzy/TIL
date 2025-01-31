@@ -19,6 +19,7 @@
 
 - [Reflow, Repaint](https://github.com/devsuzy/TIL/edit/main/Browser/Reflow%2CRepaint.md)
 - [브라우저 렌더링 파이프라인](https://github.com/devsuzy/TIL/blob/main/Browser/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.md)
+- [defer와 async]()
 
 ### React
 
