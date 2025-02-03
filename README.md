@@ -31,3 +31,4 @@
 - [리액트 성능 최적화](https://github.com/devsuzy/TIL/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
 - [Strict Mode](https://github.com/devsuzy/TIL/blob/main/React/Strict%20Mode.md)
 - [render phase와 commit phase](https://github.com/devsuzy/TIL/blob/main/React/render%20phase%EC%99%80%20commit%20phase.md)
+- [배열의 index를 key로 쓰면 안되는 이유]()
