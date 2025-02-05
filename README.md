@@ -32,3 +32,4 @@
 - [Strict Mode](https://github.com/devsuzy/TIL/blob/main/React/Strict%20Mode.md)
 - [render phase와 commit phase](https://github.com/devsuzy/TIL/blob/main/React/render%20phase%EC%99%80%20commit%20phase.md)
 - [배열의 index를 key로 쓰면 안되는 이유](https://github.com/devsuzy/TIL/blob/main/React/%EB%B0%B0%EC%97%B4%EC%9D%98%20index%EB%A5%BC%20key%EB%A1%9C%20%EC%93%B0%EB%A9%B4%20%EC%95%88%EB%90%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [useEffect와 useLayoutEffect]()
