@@ -18,7 +18,7 @@
 </div>
 
 .container {
-	display: flex;
+    display: flex;
     flex-direction: row; // 가로, 기본값
     flex-direction: column; // 세로
     flex-wrap: nowrap; // 줄바꿈 하지 않음, 기본값
@@ -57,7 +57,7 @@
 </div>
 
 .container {
-	display: grid;
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr; // 그리드 트랙 열의 배치
     grid-template-rows: repeat(3, 1fr); // 그리드 트랙 행의 배치
     column-gap: 20px; // 열의 간격
