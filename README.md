@@ -7,6 +7,20 @@
 
 # 📌 분류
 
+### Web
+
+- [웹 표준과 웹 접근성](https://github.com/devsuzy/TIL/blob/main/Web/%EC%9B%B9%20%ED%91%9C%EC%A4%80%EA%B3%BC%20%EC%9B%B9%20%EC%A0%91%EA%B7%BC%EC%84%B1.md)
+
+### Browser
+
+- [Reflow, Repaint](https://github.com/devsuzy/TIL/edit/main/Browser/Reflow%2CRepaint.md)
+- [브라우저 렌더링 파이프라인](https://github.com/devsuzy/TIL/blob/main/Browser/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.md)
+- [defer와 async](https://github.com/devsuzy/TIL/blob/main/Browser/defer%EC%99%80%20async.md)
+- [이미지 크기에 따른 렌더링 속도 개선 방법]()
+
+### CSS
+ - [Flexbox와 Grid](https://github.com/devsuzy/TIL/blob/main/CSS/Flexbox%EC%99%80%20Grid.md)
+
 ### JavaScript
 
 - [클로저](https://github.com/devsuzy/TIL/blob/main/JavaScript/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
@@ -16,12 +30,6 @@
 - [배열](https://github.com/devsuzy/TIL/blob/main/JavaScript/%EB%B0%B0%EC%97%B4.md)
 - [CommonJS와 ES Module](https://github.com/devsuzy/TIL/blob/main/JavaScript/CommonJS%EC%99%80%20ES%20Module.md)
 - [이벤트 전파](https://github.com/devsuzy/TIL/blob/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%A0%84%ED%8C%8C.md)
-
-### Browser
-
-- [Reflow, Repaint](https://github.com/devsuzy/TIL/edit/main/Browser/Reflow%2CRepaint.md)
-- [브라우저 렌더링 파이프라인](https://github.com/devsuzy/TIL/blob/main/Browser/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.md)
-- [defer와 async](https://github.com/devsuzy/TIL/blob/main/Browser/defer%EC%99%80%20async.md)
 
 ### React
 
@@ -33,13 +41,6 @@
 - [render phase와 commit phase](https://github.com/devsuzy/TIL/blob/main/React/render%20phase%EC%99%80%20commit%20phase.md)
 - [배열의 index를 key로 쓰면 안되는 이유](https://github.com/devsuzy/TIL/blob/main/React/%EB%B0%B0%EC%97%B4%EC%9D%98%20index%EB%A5%BC%20key%EB%A1%9C%20%EC%93%B0%EB%A9%B4%20%EC%95%88%EB%90%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 - [useEffect와 useLayoutEffect](https://github.com/devsuzy/TIL/blob/main/React/useEffect%EC%99%80%20useLayoutEffect.md)
-
-### Web
-
-- [웹 표준과 웹 접근성](https://github.com/devsuzy/TIL/blob/main/Web/%EC%9B%B9%20%ED%91%9C%EC%A4%80%EA%B3%BC%20%EC%9B%B9%20%EC%A0%91%EA%B7%BC%EC%84%B1.md)
-
-### CSS
- - [Flexbox와 Grid](https://github.com/devsuzy/TIL/blob/main/CSS/Flexbox%EC%99%80%20Grid.md)
 
 ### FrontEnd TEST
 - [E2E 테스트](https://github.com/devsuzy/TIL/blob/main/FrontEnd%20TEST/E2E%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
