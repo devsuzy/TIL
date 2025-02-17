@@ -33,7 +33,7 @@
 
 ### TypeScript
 
-- [Type과 Interface의 차이점]()
+- [Type과 Interface의 차이점](https://github.com/devsuzy/TIL/blob/main/TypeScript/Type%EA%B3%BC%20Interface%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
 ### React
 
