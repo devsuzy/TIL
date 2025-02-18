@@ -18,8 +18,11 @@
 - [defer와 async](https://github.com/devsuzy/TIL/blob/main/Browser/defer%EC%99%80%20async.md)
 - [이미지 크기에 따른 렌더링 속도 개선 방법](https://github.com/devsuzy/TIL/blob/main/Browser/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%81%AC%EA%B8%B0%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EC%86%8D%EB%8F%84%20%EA%B0%9C%EC%84%A0%20%EB%B0%A9%EB%B2%95.md)
 
+### HTML
+- [시맨틱 마크업]()
+
 ### CSS
- - [Flexbox와 Grid](https://github.com/devsuzy/TIL/blob/main/CSS/Flexbox%EC%99%80%20Grid.md)
+- [Flexbox와 Grid](https://github.com/devsuzy/TIL/blob/main/CSS/Flexbox%EC%99%80%20Grid.md)
 
 ### JavaScript
 
