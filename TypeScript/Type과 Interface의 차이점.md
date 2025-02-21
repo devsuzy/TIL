@@ -7,7 +7,7 @@
 - 동일한 이름으로 여러번 선언이 가능하고, 이는 자동으로 병합된다.
 - 주로 객체타입을 확장할 때 유리하다.
 - 확장성과 재사용성이 높아진다.
-```
+```typescript
 interface Person {
   age: number;
   name: string;
@@ -26,7 +26,7 @@ const person1: Person = {
 
 - 객체 구조를 정의하고, 주로 클래스가 특정 구조를 따르도록 강제하는데 사용된다.
 - 이는 코드의 일관성을 유지하는데 도움이 된다.
-```
+```typescript
 interface User {
     name: string;
     age: number;
@@ -48,7 +48,7 @@ class Person implements User {
 - 동일한 이름으로 중복 선언을 하면 에러가 발생한다.
 - 튜플과 같은 복잡한 타입 표현이 가능하며, 타입 조합을 위해 인터섹션(&)과 유니온(|) 연산자를 지원한다.
 - 다양한 타입을 정의할 수 있어 더 강력한 타입 시스템을 활용할 수 있게 해준다.
-```
+```typescript
 type BasicInfo = {
   name: string;
   age: number;
@@ -72,7 +72,7 @@ const person2: PersonInfo = {
 
 - 변수, 함수 반환 값, 매개변수 등의 타입을 정의하는데 사용한다.
 - 코드의 가독성과 유지보수성을 높일 수 있다.
-```
+```typescript
 type User = {
     name: string;
     age: number;

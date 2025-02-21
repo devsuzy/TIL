@@ -21,7 +21,7 @@
 - Webpack과 같은 번들러를 사용하면, CommonJS와 ES Module을 모두 지원하는 번들을 생성할 수 있다.
 - 프로젝트의 요구사항과 환경에 따라 적절한 모듈 시스템을 선택하고, 필요에 따라 두 모듈 시스템을 통합하여 사용할 수 있다.
 
-```
+```javascript
 module.exports = {
     entry: './src/index.js',
     output: {

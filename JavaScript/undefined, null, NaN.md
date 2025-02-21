@@ -5,7 +5,7 @@
 ### undefined
 - 변수는 선언했지만, 아직 아무 값도 할당 하지 않았을 때
 - **값을 아직 할당하지 않은 상태, 자바스크립트가 자동으로 부여하는 값**
-```
+```javascript
 let a; 
 typeof a; // undefined
 ```
@@ -14,13 +14,13 @@ typeof a; // undefined
 - 의도적으로 값이 없음을 표현하기 위해 할당하는 값
 - 객체의 속성 값이 존재하지 않을 때나 함수, 매개변수를 초기화 하는 용도
 - **의도적으로 값을 비워둔 상태, 개발자가 직접 할당하는 값**
-```
+```javascript
 let b = null;
 typeof b; // object
 ```
 
 ### undefined과 null 비교
-```
+```javascript
 null == undefined // true
 null === undefined // false
 ```

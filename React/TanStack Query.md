@@ -30,7 +30,7 @@
   - `Query Client`를 어플리케이션에 연결 및 제공
   - 최상단에 감싸주고 `Query Client` 인스턴스를 `client` prop에 넣어줌
 
-```
+```jsx
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 
 const queryClient = new QueryClient({
@@ -73,7 +73,7 @@ function App() {
   - 설정한 시간이 지나면 가비지 컬렉션의 대상이 됨됨
   - **해당 쿼리를 사용하는 곳이 없게 된 이후에도 캐시 데이터를 얼마 동안 유지할지를 정하는 시간**
 
-```
+```javascript
 const result = useQuery({
   queryKey: ["todos"],
   queryFn: fetchTodoList,
@@ -98,7 +98,7 @@ const result = useQuery({
   - 네트워크가 끊어진 경우 네트워크를 다시 연결하기 전까지 쿼리 실행을 멈추고 paused상태가 됨
   - 예외 처리에 유용함함
 
-```
+```javascript
 function Todos() {
   const { data, error, isPending, isError, isLoading, isFetching, isPaused } = useQuery({
     queryKey: ["todos"],

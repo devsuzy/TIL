@@ -51,7 +51,7 @@
 
 1. DOM 업데이트를 하나로 묶어 Batch Update 하는 방법
 
-```
+```javascript
 // AS-IS
 for (let i = 0; i < 100; i++) {
   let item = document.createElement("div");
@@ -71,7 +71,7 @@ document.body.appendChild(fragment);
 
 2. offsetHeight, offsetWidth와 같은 레이아웃에 여러 번 접근하는 속성은 변수에 저장해두고 재사용
 
-```
+```javascript
 let height = element.offsetHeight;
 for (let i = 0; i < 100; i++) {
   if (height > 100) {

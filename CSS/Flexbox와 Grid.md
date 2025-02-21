@@ -10,13 +10,14 @@
 - 컨텐츠 크기나 위치에 맞춰 자동으로 정렬
 - 주 축 방향으로 요소를 배치하고 여백을 조절 
 
-```
+```html
 <div class="container">
 	<div class="item">A</div>
 	<div class="item">B</div>
 	<div class="item">C</div>
 </div>
-
+```
+```css
 .container {
     display: flex;
     flex-direction: row; // 가로, 기본값
@@ -43,7 +44,7 @@
 - 복잡한 레이아웃을 구성하거나 웹페이지의 전체적인 구조를 잡는데 적합
 - 행과 열을 사전에 정의하고 그 격자에 요소를 배치하는 방식
 
-```
+```html
 <div class="container">
 	<div class="item">A</div>
 	<div class="item">B</div>
@@ -55,7 +56,8 @@
 	<div class="item">H</div>
 	<div class="item">I</div>
 </div>
-
+```
+```css
 .container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr; // 그리드 트랙 열의 배치

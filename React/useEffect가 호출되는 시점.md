@@ -10,7 +10,7 @@
 
 ### useEffect 수행 동작
 
-```
+```jsx
 import { useEffect } from 'react';
 import { createConnection } from './chat.js';
 
