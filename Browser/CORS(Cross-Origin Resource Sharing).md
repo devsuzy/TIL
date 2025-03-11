@@ -3,6 +3,8 @@
 > 매일메일 FE 2025년 2월 4주차 금요일 질문
 
 ### 개념 정리
+<img width="1408" alt="cors-url" src="https://github.com/user-attachments/assets/067f0f76-5beb-40fe-83c1-8600c9f06eb9" />
+
 - SOP(Same-Origin Policy)
     - 동일 출처 정책
     - 다른 출처로의 리소스 요청을 제한하는 정책
