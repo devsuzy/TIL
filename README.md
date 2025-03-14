@@ -51,7 +51,7 @@
 ### TypeScript
 
 - [Type과 Interface의 차이점](https://github.com/devsuzy/TIL/blob/main/TypeScript/Type%EA%B3%BC%20Interface%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
-- [타입스크립트를 사용하는 이유]()
+- [타입스크립트를 사용하는 이유](https://github.com/devsuzy/TIL/blob/main/TypeScript/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 
 ### React
 
@@ -68,7 +68,7 @@
 - [Suspense](https://github.com/devsuzy/TIL/blob/main/React/Suspense.md)
 - [TanStack Query의 장단점](https://github.com/devsuzy/TIL/blob/main/React/Tanstack%20Query%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90.md)
 - [컴포넌트](https://github.com/devsuzy/TIL/blob/main/React/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
-- [서버 컴포넌트]()
+- [서버 컴포넌트](https://github.com/devsuzy/TIL/blob/main/React/%EC%84%9C%EB%B2%84%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 
 ### FrontEnd TEST
 
