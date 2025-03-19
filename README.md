@@ -25,7 +25,7 @@
 - [localStorage와 sessionStorage](https://github.com/devsuzy/TIL/blob/main/Browser/localStorage%EC%99%80%20sessionStorage.md)
 - [CORS(Cross-Origin Resource Sharing)](https://github.com/devsuzy/TIL/blob/main/Browser/CORS(Cross-Origin%20Resource%20Sharing).md)
 - [HTTP 프로토콜](https://github.com/devsuzy/TIL/blob/main/Browser/HTTP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)
-- [HTTP Header와 Body]()
+- [HTTP Header와 Body](https://github.com/devsuzy/TIL/blob/main/Browser/HTTP%20Header%EC%99%80%20Body.md)
 
 ### HTML
 
