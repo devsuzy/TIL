@@ -77,6 +77,7 @@
 - [컴포넌트](https://github.com/devsuzy/TIL/blob/main/React/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 - [서버 컴포넌트](https://github.com/devsuzy/TIL/blob/main/React/%EC%84%9C%EB%B2%84%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 - [Streaming SSR](https://github.com/devsuzy/TIL/blob/main/React/Streaming%20SSR.md)
+- [전역 상태 관리 라이브러리를 사용하는 이유]()
 
 ### FrontEnd TEST
 
