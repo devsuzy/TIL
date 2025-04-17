@@ -3,6 +3,7 @@
 > 매일메일 FE 2025년 4월 2주차 금요일 질문
 
 ### 쌓임 맥락(Stacking Context)
+![img](https://github.com/user-attachments/assets/b0e34747-ef4b-432f-96c6-9161eb0ac378)
 - 가상의 z축을 상정하여 HTML 요소들을 3차원으로 개념화한 것
 - 각각 HTML 요소는 자신의 속성에 따른 우선순위를 사용해 3차원 공간을 차지함
 
