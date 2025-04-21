@@ -33,6 +33,7 @@
 
 - [시맨틱 마크업](https://github.com/devsuzy/TIL/blob/main/HTML/%EC%8B%9C%EB%A7%A8%ED%8B%B1%20%EB%A7%88%ED%81%AC%EC%97%85.md)
 - [HTML Doctype](https://github.com/devsuzy/TIL/blob/main/HTML/HTML%20Doctype.md)
+- [link 요소의 rel 속성 값]()
 
 ### CSS
 
