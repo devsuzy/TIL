@@ -88,7 +88,7 @@
 - [Virtual DOM](https://github.com/devsuzy/TIL)
 - [Next.js를 사용하는 이유](http://github.com/devsuzy/TIL/blob/main/React/Next.js.md)
 - [Next.js Server Action](https://github.com/devsuzy/TIL/blob/main/React/Next.js%20Server%20Action.md)
-- [useRef로 변수 관리]()
+- [useRef로 변수 관리](https://github.com/devsuzy/TIL/blob/main/React/useRef%EB%A1%9C%20%EB%B3%80%EC%88%98%20%EA%B4%80%EB%A6%AC.md)
 
 ### FrontEnd TEST
 
