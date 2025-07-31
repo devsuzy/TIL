@@ -1,6 +1,7 @@
 # Stack을 활용한 브라우저 뒤로가기, 앞으로 가기
 
 > 매일메일 FE 2025년 7월 4주차 월요일 질문
+
 <img width="407" height="241" alt="다운로드" src="https://github.com/user-attachments/assets/7db5f38c-1d71-467a-bc6e-62170bd04207" />
 
 
