@@ -97,9 +97,9 @@
 - [E2E 테스트](https://github.com/devsuzy/TIL/blob/main/FrontEnd%20TEST/E2E%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 
 ### DevOps
-- [git 브랜치 전략]()
+- [git 브랜치 전략](https://github.com/devsuzy/TIL/blob/main/DevOps/git%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EC%A0%84%EB%9E%B5.md)
 - [CI/CD](https://github.com/devsuzy/TIL/edit/main/DevOps/CI%2CCD.md)
-- [Yarn과 Yarn Berry]()
+- [Yarn과 Yarn Berry](https://github.com/devsuzy/TIL/blob/main/DevOps/Yarn%EA%B3%BC%20Yarn%20Berry.md)
 
 ---
 
