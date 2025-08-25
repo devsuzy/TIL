@@ -47,6 +47,7 @@
 - [box-sizing](https://github.com/devsuzy/TIL/blob/main/CSS/box-sizing.md)
 - [쌓임 맥락(Stacking Context)](https://github.com/devsuzy/TIL/blob/main/CSS/%EC%8C%93%EC%9E%84%20%EB%A7%A5%EB%9D%BD(Stacking%20Context).md)
 - [requestAnimationFrame](https://github.com/devsuzy/TIL/blob/main/CSS/requestAnimationFrame.md)
+- [will-change](https://github.com/devsuzy/TIL/blob/main/CSS/will-change.md)
 
 ### JavaScript
 
