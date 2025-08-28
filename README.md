@@ -8,6 +8,7 @@
 # 📌 목차
 - [매일메일 면접 질문](#-매일메일-면접-질문)
 - [이펙티브 타입스크립트](#-이펙티브-타입스크립트)
+- [면접을 위한 CS 전공지식 노트](#-면접을-위한-cs-전공지식-노트)
 
 --- 
 
@@ -117,3 +118,8 @@
   3) [코드 생성과 타입이 관계없음을 이해하기](https://github.com/devsuzy/TIL/blob/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/1%EC%9E%A5%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/3.%20%EC%BD%94%EB%93%9C%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%83%80%EC%9E%85%EC%9D%B4%20%EA%B4%80%EA%B3%84%EC%97%86%EC%9D%8C%EC%9D%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
   4) [구조적 타이핑에 익숙해지기](https://github.com/devsuzy/TIL/blob/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/1%EC%9E%A5%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/4.%20%EA%B5%AC%EC%A1%B0%EC%A0%81%20%ED%83%80%EC%9D%B4%ED%95%91%EC%97%90%20%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EA%B8%B0.md)
   5) [any 타입 지양하기](https://github.com/devsuzy/TIL/blob/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/1%EC%9E%A5%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/5.%20any%20%ED%83%80%EC%9E%85%20%EC%A7%80%EC%96%91%ED%95%98%EA%B8%B0.md)
+
+---
+
+## 🟢 면접을 위한 CS 전공지식 노트
+
