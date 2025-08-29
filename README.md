@@ -128,9 +128,10 @@
 #### Section 1 디자인 패턴
 
 1) [싱글톤 패턴](https://github.com/devsuzy/TIL/blob/main/%EB%A9%B4%EC%A0%91%EC%9D%84%20%EC%9C%84%ED%95%9C%20CS%20%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D%20%EB%85%B8%ED%8A%B8/Section%201%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/1.%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)
-2) [팩토리 패턴]()
-3) [전략 패턴]()
-4) [옵저버 패턴]()
+2) [팩토리 패턴](https://github.com/devsuzy/TIL/blob/main/%EB%A9%B4%EC%A0%91%EC%9D%84%20%EC%9C%84%ED%95%9C%20CS%20%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D%20%EB%85%B8%ED%8A%B8/Section%201%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/2.%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%ED%8C%A8%ED%84%B4.md)
+3) [전략 패턴](https://github.com/devsuzy/TIL/blob/main/%EB%A9%B4%EC%A0%91%EC%9D%84%20%EC%9C%84%ED%95%9C%20CS%20%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D%20%EB%85%B8%ED%8A%B8/Section%201%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/3.%20%EC%A0%84%EB%9E%B5%20%ED%8C%A8%ED%84%B4.md
+)
+4) [옵저버 패턴](https://github.com/devsuzy/TIL/blob/main/%EB%A9%B4%EC%A0%91%EC%9D%84%20%EC%9C%84%ED%95%9C%20CS%20%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D%20%EB%85%B8%ED%8A%B8/Section%201%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/4.%20%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md)
 5) [프록시 패턴]()
 6) [이터레이터 패턴]()
 7) [노출모듈 패턴]()
