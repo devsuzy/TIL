@@ -68,6 +68,7 @@
 - [상황에 따른 this 바인딩](https://github.com/devsuzy/TIL/blob/main/%EB%A7%A4%EC%9D%BC%EB%A9%94%EC%9D%BC%20%EB%A9%B4%EC%A0%91%20%EC%A7%88%EB%AC%B8//JavaScript/%EC%83%81%ED%99%A9%EC%97%90%20%EB%94%B0%EB%A5%B8%20this%20%EB%B0%94%EC%9D%B8%EB%94%A9.md)
 - [제너레이터](https://github.com/devsuzy/TIL/blob/main/%EB%A7%A4%EC%9D%BC%EB%A9%94%EC%9D%BC%20%EB%A9%B4%EC%A0%91%20%EC%A7%88%EB%AC%B8//JavaScript/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0.md)
 - [메모리 관리](https://github.com/devsuzy/TIL/blob/main/%EB%A7%A4%EC%9D%BC%EB%A9%94%EC%9D%BC%20%EB%A9%B4%EC%A0%91%20%EC%A7%88%EB%AC%B8/JavaScript/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC.md)
+- [HMR(Hot Module Replacement)](https://github.com/devsuzy/TIL/blob/main/%EB%A7%A4%EC%9D%BC%EB%A9%94%EC%9D%BC%20%EB%A9%B4%EC%A0%91%20%EC%A7%88%EB%AC%B8/JavaScript/HMR(Hot%20Module%20Replacement).md)
 
 ### TypeScript
 
